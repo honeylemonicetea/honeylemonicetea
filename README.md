@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I've been learning web development for 3 years
+I've been learning coding for 3 years
 
 * 🌍  I'm based in Kazan, Russia
 * 🖥️  See [my protfolio here](http://honeylemonicetea.github.io/PortfolioCurrent/)
