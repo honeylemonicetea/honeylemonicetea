@@ -7,8 +7,8 @@ Web developer
 I've been learning web development for 3 years
 
 * 🌍  I'm based in Kazan, Russia
-* 🖥️  See my portfolio at [My Protfolio](http://honeylemonicetea.github.io/PortfolioCurrent/)
-* ✉️  You can contact me at [firyuzakhayaleeva@outlook.com](mailto:firyuzakhayaleeva@outlook.com)
+* 🖥️  See [my protfolio here](http://honeylemonicetea.github.io/PortfolioCurrent/)
+* ✉️  You can contact me [here](mailto:firyuzakhayaleeva@outlook.com)
 * 🧠  I'm learning Next JS
 * ⚡  I'm a professional translator
 
