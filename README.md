@@ -9,7 +9,7 @@ I've been learning coding for 3 years
 * 🌍  I'm based in Kazan, Russia
 * 🖥️  See [my protfolio here](http://honeylemonicetea.github.io/PortfolioCurrent/)
 * ✉️  You can contact me [here](mailto:firyuzakhayaleeva@outlook.com)
-* 🧠  I'm learning Next JS
+* 🧠  I'm learning NextJS and VueJS
 * ⚡  I'm a professional translator
 
 ### Skills
