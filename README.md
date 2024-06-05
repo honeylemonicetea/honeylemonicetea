@@ -4,7 +4,7 @@ Hi! 👋 My name is Firyuza
 Web developer
 -------------
 
-I've been learning coding for 3 years
+I've been learning coding for 4 years
 
 * 🌍  I'm based in Kazan, Russia
 * 🖥️  See [my protfolio here](http://honeylemonicetea.github.io/PortfolioCurrent/)
