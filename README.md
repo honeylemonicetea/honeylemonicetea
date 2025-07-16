@@ -22,4 +22,6 @@ I've been learning coding for 5 years
                     
 </p>
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honeylemonicetea)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
